@@ -1,9 +1,2 @@
 # QuantumVolumeController
-# QuantumVolumeController
-# QuantumVolumeController
-# QuantumVolumeController
-# QuantumVolumeController
-# QuantumVolumeController
-# QuantumVolumeController
-# QuantumVolumeController
-# QuantumVolumeController
+Control that volume *Quantumly*
